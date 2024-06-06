@@ -1,0 +1,125 @@
+{
+  "marks": [
+    {
+      "link": "https://shorturl.at/bZ200",
+      "alt": "graphic-studio"
+    },
+    {
+      "link": "https://shorturl.at/zWEqq",
+      "alt": "salva-art"
+    },
+    {
+      "link": "https://shorturl.at/UC3aa",
+      "alt": "golden-studio"
+    },
+    {
+      "link": "https://shorturl.at/NkI2p",
+      "alt": "furniture-design"
+    },
+    {
+      "link": "./src/img/brand-2.png",
+      "alt": "travel-lookbook"
+    }
+  ],
+
+  "populars": [
+    {
+      "img": "https://picsum.photos/536/354",
+      "alt": "jicetbraun"
+    },
+    {
+      "img": "https://picsum.photos/536/354",
+      "alt": "jicetbraun"
+    },
+    {
+      "img": "https://picsum.photos/536/354",
+      "alt": "jicetbraun"
+    },
+    {
+      "img": "https://picsum.photos/536/350",
+      "alt": "jicetbraun"
+    }
+  ],
+
+  "subscribes": [
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQIBvLq49LzCf2H_Cgm02ZheDtbgDOosAqvaDfjdV2sGaWWXJT",
+      "pBold": "Adicolor Classics Joggers",
+      "p": "Dress",
+      "price": "$63.85"
+    },
+
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2ThgxfuBXQeBPEWMnW36quSJntARVtKaaQqdqE-JqALAPNDRU",
+      "pBold": "Nike Sportswear Futura Luxe",
+      "p": "Bag",
+      "price": "$130.00"
+    },
+    {
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpKUaM4L4fK0q3M5OKQunbBQjYxhm-yTDOb64Dzq1t7F3QlFnN",
+      "pBold": "Geometric print Scarf",
+      "p": "scarf",
+      "price": "$53.00"
+    },
+    {
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFyZGbwKTU_2YEqbyRDG89BwUmh37zaMjn-3Z3a9GvKrppnJ5E",
+      "pBold": "Yellow Reserved Hoodie",
+      "p": "Dress",
+      "price": "$364.00   $155.00"
+    }
+  ],
+  "subscribes1": [
+    {
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxRk4QLKBVO3hOH5t5SB1CvsgM7YRhZXj-01NBdw9jx4ltR5CO",
+      "pBold": "Adicolor Classics Joggers",
+      "p": "Dress",
+      "price": "$63.85"
+    },
+
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2ThgxfuBXQeBPEWMnW36quSJntARVtKaaQqdqE-JqALAPNDRU",
+      "pBold": "Nike Sportswear Futura Luxe",
+      "p": "Bag",
+      "price": "$130.00"
+    },
+    {
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpKUaM4L4fK0q3M5OKQunbBQjYxhm-yTDOb64Dzq1t7F3QlFnN",
+      "pBold": "Geometric print Scarf",
+      "p": "scarf",
+      "price": "$53.00"
+    },
+    {
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFyZGbwKTU_2YEqbyRDG89BwUmh37zaMjn-3Z3a9GvKrppnJ5E",
+      "pBold": "Yellow Reserved Hoodie",
+      "p": "Dress",
+      "price": "$364.00   $155.00"
+    }
+  ],
+
+  "followProduct": [
+    {
+      "link": "./src/img/card(0).png",
+      "alt": "card"
+    },
+    {
+      "link": "./src/img/card (1).png",
+      "alt": "card"
+    },
+    {
+      "link": "./src/img/card (2).png",
+      "alt": "card"
+    },
+    {
+      "link": "./src/img/card (3).png",
+      "alt": "card"
+    },
+    {
+      "link": "./src/img/card (4).png",
+      "alt": "card"
+    },
+    {
+      "link": "./src/img/card (5).png",
+      "alt": "card"
+    }
+  ]
+}

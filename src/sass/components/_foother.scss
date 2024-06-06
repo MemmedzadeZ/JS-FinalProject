@@ -1,0 +1,108 @@
+#connectMain {
+  background-color: #e0e0e0;
+}
+
+#header {
+  display: flex;
+  justify-content: space-around;
+}
+
+#header__Coral {
+  display: flex;
+  justify-content: center;
+}
+#header__Coral1 {
+  display: flex;
+  justify-content: center;
+}
+.div1 {
+  margin-top: 7px;
+}
+
+#main_Divv {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 180px;
+  margin-top: 70px;
+}
+
+#main_photCollect {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+  margin-top: -80px;
+}
+
+.main__collect-div {
+  justify-content: space-around;
+}
+
+.collect_btn {
+  background-color: #e3e3e3;
+  color: white;
+  /* width: 103px;
+  height: 32px;
+  top: 591px;
+  left: 304px; */
+  width: 103px;
+  height: 52px;
+  margin-top: 80px;
+}
+
+.divvv {
+  display: flex;
+  justify-content: center;
+}
+.frame_img {
+  margin-left: 1300px;
+  margin-top: -2960px;
+}
+
+.frame_img1 {
+  margin-top: -2090px;
+}
+
+#containerFooter {
+  width: 100%;
+  background-color: white;
+  color: black;
+  letter-spacing: 1px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  text-transform: uppercase;
+  font-size: 10px;
+  padding: 15px 300px;
+  box-sizing: border-box;
+}
+
+#containerFooter h3:hover,
+#containerFooter p:hover {
+  color: red;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.footer {
+  padding: 15px 190px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+
+  &__text {
+    cursor: pointer;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+  }
+
+  &__image {
+    cursor: pointer;
+  }
+}
+
+///////////////////////////////////////////////
+///
+///
+///
+///

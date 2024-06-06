@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQIBvLq49LzCf2H_Cgm02ZheDtbgDOosAqvaDfjdV2sGaWWXJT",
+    "pBold": "Adicolor Classics Joggers",
+    "p": "Dress",
+    "price": "$63.85"
+  },
+
+  {
+    "id": 2,
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQIBvLq49LzCf2H_Cgm02ZheDtbgDOosAqvaDfjdV2sGaWWXJT",
+    "pBold": "Nike Sportswear Futura Luxe",
+    "p": "Bag",
+    "price": "$130.00"
+  },
+  {
+    "id": 3,
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpKUaM4L4fK0q3M5OKQunbBQjYxhm-yTDOb64Dzq1t7F3QlFnN",
+    "pBold": "Geometric print Scarf",
+    "p": "scarf",
+    "price": "$53.00"
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFyZGbwKTU_2YEqbyRDG89BwUmh37zaMjn-3Z3a9GvKrppnJ5E",
+    "pBold": "Yellow Reserved Hoodie",
+    "p": "Dress",
+    "price": "$364.00   $155.00"
+  }
+]
